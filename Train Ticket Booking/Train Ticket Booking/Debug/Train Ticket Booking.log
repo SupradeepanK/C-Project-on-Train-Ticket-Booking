@@ -1,0 +1,4 @@
+﻿  Main Form.cpp
+C:\Users\supra\source\repos\Train Ticket Booking\Train Ticket Booking\Main Form.h(40,11): warning C4101: 'TotalCost': unreferenced local variable
+  Main Form.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Train Ticket Booking.vcxproj -> C:\Users\supra\source\repos\Train Ticket Booking\Debug\Train Ticket Booking.exe

@@ -1,0 +1,3 @@
+C:\Users\supra\source\repos\Train Ticket Booking\Train Ticket Booking\Debug\Train Ticket Booking.vcxproj.AssemblyReference.cache
+C:\Users\supra\source\repos\Train Ticket Booking\Train Ticket Booking\Debug\TrainTicketBooking.Main Form.resources
+C:\Users\supra\source\repos\Train Ticket Booking\Train Ticket Booking\Debug\Train Ticket Booking.vcxproj.GenerateResource.cache
